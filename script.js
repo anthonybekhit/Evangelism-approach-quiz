@@ -154,7 +154,7 @@ Bold
 Direct
 Skips small talk, likes to get to the point
 Has strong opinions and convictions;
-
+`;
 document.getElementById('transcript').textContent = transcriptText;
 
 renderStep();
