@@ -1,0 +1,2 @@
+import { useState } from "react";
+... (React prototype code created earlier in the canvas)
