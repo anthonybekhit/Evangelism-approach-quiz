@@ -108,7 +108,6 @@ document.getElementById('restartBtn').onclick = restart;
 const transcriptText = `APPROACHES TO EVANGELISM
 
 INTELLECTUAL APPROACH
-
 MAIN CHARACTERISTICS
 Patient
 Analytical and logical
